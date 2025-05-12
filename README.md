@@ -1,12 +1,13 @@
 # shields-group
 Exploration of the Ability of the 2-Methyltetrols produced from Photooxidation of Isoprene to form Prenucleation Complexes that could lead to Secondary Organic Aerosol Formation 
  
-Alexandra E. Sorescu, Conor J. Bready, and George C. Shields* 
+Alexandra E. Sorescu, Conor J. Bready, Caroline S. Glick and George C. Shields* 
 Furman University, Department of Chemistry, Greenville SC 29609 
 email george.shields@furman.edu 
  
  
-All of the xyz coordinates are in the Coordinates folder. 
+All of the xyz coordinates from this study are in xyzs.zip. 
+Coordinates of structures in the figures are in 1-methylthreitol and 2-methylerythritol.
  
 The Spreadsheets folder contains all of the wB97X-D and DLPNO-CCSD(T)/cc-pVNZ electronic energies (N=D,T,Q) as well as the ∆Gcorr values based on the scaled wB97X-D calculations, and the extrapolated DLPNO-CCSD(T) Complete Basis Set Gibbs Free Energies. Columns A and AC contain the original names of the structures. The energies in Column AA match up with the naming of the structures in the Figures, which are within 1 kcal/mol of the global minimum. 
  
